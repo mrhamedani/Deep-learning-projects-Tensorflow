@@ -7,7 +7,7 @@ In this code, we wanted to train a dataset in the neural network and make predic
 - Dense layer for regression & Normalization layer
 - Data analysis with seaborn & evaluate
 
-**2-breast-cancer-Neural**
+**2-breast-cancer-Neural-network**
 In this dataset, we perform classification by neural network and predict the test data and measure the accuracy in training, testing and validation.
 New items:
 - optimizer, Adam or SGD?
