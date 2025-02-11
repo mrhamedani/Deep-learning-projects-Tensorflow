@@ -10,7 +10,6 @@ In this code, we wanted to train a dataset in the neural network and make predic
 **2-breast-cancer-Neural**
 In this dataset, we perform classification by neural network and predict the test data and measure the accuracy in training, testing and validation.
 New items:
-
--optimizer, Adam or SGD?
+- optimizer, Adam or SGD?
 - sigmoid layer & binary_crossentropy loss for  binary classification
 - Scaling or Normalization?
