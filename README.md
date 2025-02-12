@@ -16,6 +16,12 @@ New items:
 
 **3-MNIST-ComputerVision**
 A common example for computer vision from the MNIST dataset (numbers 1-9 as labeled black-and-white photos) New items:
-  - using layers.Flatten for CV
+  - using layers.Flatten 
   - using onehotencodinf for model
   - history method & categorical_crossentropy loss
+
+**4-cifar10-ComputerVision**
+A common example for computer vision from the cifar10 dataset (10 photo classes such as dogs and cats, etc. with labels) New items:
+- CNN --> Conv2D & MaxPooling2D layers
+- utils.to_categorical
+
