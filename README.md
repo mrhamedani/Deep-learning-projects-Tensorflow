@@ -17,7 +17,7 @@ New items:
 **3-MNIST-ComputerVision**
 A common example for computer vision from the MNIST dataset (numbers 1-9 as labeled black-and-white photos) New items:
   - using layers.Flatten 
-  - using onehotencodinf for model
+  - using onehotencoding for model
   - history method & categorical_crossentropy loss
 
 **4-cifar10-ComputerVision**
