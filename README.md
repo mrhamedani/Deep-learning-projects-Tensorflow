@@ -13,3 +13,9 @@ New items:
 - optimizer, Adam or SGD?
 - sigmoid layer & binary_crossentropy loss for  binary classification
 - Scaling or Normalization?
+
+  **3-MNIST-ComputerVision**
+  A common example for computer vision from the MNIST dataset (numbers 1-9 as labeled black-and-white photos) New items:
+  - using layers.Flatten for CV
+  - using onehotencodinf for model
+  - history method & categorical_crossentropy loss
