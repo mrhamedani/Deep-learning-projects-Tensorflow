@@ -32,3 +32,10 @@ Using an advanced Recurrent Neural Network (RNN) model called Long Short-Term Me
 - TextVectorization
 - Embedding
 - standardization text by regex
+
+**6-imdb-kagglemodel**
+TensorFlow Hub and Kaggle are two platforms that provide pre-trained models and datasets. Instead of designing models from scratch, we can easily leverage these resources to use ready-made models and datasets for various tasks.New items:
+- Using Kaggle ready models
+- tf_keras like keras in tensorflow
+
+**7-flowers-Augmentation**
