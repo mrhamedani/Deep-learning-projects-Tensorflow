@@ -25,3 +25,10 @@ A common example for computer vision from the cifar10 dataset (10 photo classes 
 - CNN --> Conv2D & MaxPooling2D layers
 - utils.to_categorical
 
+**5-imdb-RNN(LSTM)**
+Using an advanced Recurrent Neural Network (RNN) model called Long Short-Term Memory (LSTM), we classify the IMDB movie reviews dataset into positive and negative sentiment classes. Additionally, we perform predictions on new reviews.New items:
+- RNN(LSTM) architecture
+- map, constant , expand_dim , GlobalAveragePooling1D leyar
+- TextVectorization
+- Embedding
+- standardization text by regex
