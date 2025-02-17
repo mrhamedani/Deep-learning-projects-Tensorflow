@@ -39,3 +39,8 @@ TensorFlow Hub and Kaggle are two platforms that provide pre-trained models and 
 - tf_keras like keras in tensorflow
 
 **7-flowers-Augmentation**
+Data Augmentation is a technique to increase data (audio, text and image) which leads to better learning of the model. In this code, there is a dataset related to the images of 5 types of flowers and we use this technique. New items:
+- Data Augmentation for image--> tf.keras.layers & tf.image
+- RandomFlip ,RandomRotation ,RandomZoom ,RandomContrast
+
+****
