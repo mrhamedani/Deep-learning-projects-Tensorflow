@@ -43,4 +43,9 @@ Data Augmentation is a technique to increase data (audio, text and image) which 
 - Data Augmentation for image--> tf.keras.layers & tf.image
 - RandomFlip ,RandomRotation ,RandomZoom ,RandomContrast
 
-****
+**8-fashion_mnist-hypertuning**
+With the hyperband method, we want to determine the best hyperparameter (the best number of periods, rate, and number of neurons). New items:
+- srop early
+- hypertuning --> epochs,rl ,Number of neurons
+- hyperband method
+
